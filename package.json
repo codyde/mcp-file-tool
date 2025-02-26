@@ -1,0 +1,17 @@
+{
+  "name": "mcp-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.0",
+    "@sentry/node": "^9.2.0",
+    "@sentry/profiling-node": "^9.2.0",
+    "zod": "^3.24.2"
+  }
+}
